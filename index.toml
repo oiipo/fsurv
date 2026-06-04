@@ -316,11 +316,6 @@ hash = "03042a38a67189168d9ae266160a48c7e58391515c98fad4fc1e275e9913d868"
 metafile = true
 
 [[files]]
-file = "mods/factory-api.pw.toml"
-hash = "91b6ec85496b3bb4bf11debee3113bebc1d9f761a96d7e17c8bb817899d1f090"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8abf78a492f42526f6209bd8026482641b53250bae67ce1bedf1ce55bcd6ffea"
 metafile = true
@@ -393,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "e7bd002c8ff9c45a99e48a2c7116e29e00efaa5cde194e97739a840498b2725b"
-metafile = true
-
-[[files]]
-file = "mods/legacy4j.pw.toml"
-hash = "d3b48107a2f11104f512e0308356d1a7db7628a75f03eb49efa023f57d556cd0"
 metafile = true
 
 [[files]]
