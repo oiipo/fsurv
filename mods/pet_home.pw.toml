@@ -1,0 +1,18 @@
+filename = 'pet_home-1.0.12-neoforge-1.21.1.jar'
+name = 'Pet Home'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.12-neoforge-1.21.1'
+
+[download]
+hash = '49ec985123eb1fda5d8f1821bd55dd3df0f0c0ff7a65b0f99d8f9643a0538515ba4fe7a0d12a687c19aecc7a2ff2e0bdf5caf879175f7baaa6d0a8606c6f75c6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/euYoe1uE/versions/Xc9K6OAF/pet_home-1.0.12-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'euYoe1uE'
+version = 'Xc9K6OAF'

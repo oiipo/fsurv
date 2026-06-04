@@ -1,0 +1,21 @@
+filename = 'netherdepthsupgrade-3.1.8-1.21.jar'
+name = 'Nether Depths Upgrade'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'netherdepthsupgrade-3.1.8-1.21'
+
+[download]
+hash = '6bc966cbfa01e52eac6c1b8efe6c4b63cfb65c42'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6430271
+project-id = 670011
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
