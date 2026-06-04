@@ -76,6 +76,11 @@ hash = "1be015a1622b2eb82ecd96c0f530785d9a0a3864e7d7850c892eab8e6a202666"
 metafile = true
 
 [[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "557ab5ea6c35a2e8ad26a0664fa8fbaa3a879661f971acfece486b36d6c835ee"
 metafile = true
