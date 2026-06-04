@@ -721,5 +721,21 @@ hash = "54863d6a9a3f0293a7f54c152f1de3b7b063c9336d139ea05f362829e23d67f9"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "59c1eef10ee86cccc1eb72154e8a8343becb047d1893ab09827d17fb0bc498ce"
+
+[[files]]
 file = "servers.dat"
 hash = "55a26c12b3d2a6236851715b13b982a68f93b96300e7fa46b358a453a6b9c668"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.6.zip"
+hash = "6d6f1065cbe2310b8246b7a702eeda651428ce2a6b742540f014e8e7b640a2ad"
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip"
+hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
