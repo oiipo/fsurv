@@ -1,6 +1,6 @@
 filename = 'refurbished_furniture-neoforge-1.21.1-1.0.22.jar'
 name = "MrCrayfish's Furniture Mod: Refurbished"
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -11,7 +11,6 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22'''
 hash = '6c209e6b755ff26218efd55aedf2dea49183d29b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7473565

@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'Zeta-1.1-40.jar'
 hash = '72f6efe421cfc0547c774ae8241d727b7d996754'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7980010

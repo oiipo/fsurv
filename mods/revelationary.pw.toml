@@ -11,7 +11,6 @@ x-prismlauncher-version-number = '1.4.2+1.21.1-neoforge'
 hash = '76064576f092fc6e9f763b5191ea8db2be883f6d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8114739

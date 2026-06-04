@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'starcatcher_delight-1.0-NEOFORGE-1.21.1.jar'
 hash = 'a896c05c38848ec9d5add0fce63bcb374e86cb92'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8079105

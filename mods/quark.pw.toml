@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Quark-4.1-480.jar'
 hash = 'a17e252b74b28045602478cb3ada804239c15c2c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8146177

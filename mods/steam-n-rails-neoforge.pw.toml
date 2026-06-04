@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'railways-0.2.0+neoforge-mc1.21.1.jar'
 hash = '9d52eef0772b81de397271b98c0201a59733f9c6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8095851

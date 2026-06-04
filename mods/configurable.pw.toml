@@ -1,6 +1,6 @@
 filename = 'configurable-3.5.1+1.21.1-neoforge.jar'
 name = 'Configurable'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'Configurable Neoforge 3.5.1 for 1.21.1'
 hash = 'b3284a506688cbbfcdfeaa87b92b1c22af536b90'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8011507

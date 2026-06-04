@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'copperagebackport-neoforge-1.21.1-0.1.4.jar'
 hash = '9892ad37739b62e330274ca51648b00a7ac51114'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7283478

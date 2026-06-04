@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'create_aeronautics_automated_logistics-0.3.0.j
 hash = 'e39a804fe2b4e1766bfd661cea22f35a1ab75b52'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8083456

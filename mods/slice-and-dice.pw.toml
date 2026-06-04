@@ -1,6 +1,6 @@
 filename = 'sliceanddice-forge-4.2.4.jar'
 name = 'Create Slice & Dice'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Neoforge 4.2.4'
 hash = '13d8835813b3851d4818c59ec8f7124e4a826c14'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7738176

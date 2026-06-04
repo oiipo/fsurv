@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'create-dyn-light-2.3.1-sodium-sable.jar'
 hash = 'd8db69c0b72b750feaa2c4ed41de906bdebd1e5f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8006631

@@ -1,6 +1,6 @@
 filename = 'baguettelib-1.21.1-NeoForge-2.0.3.jar'
 name = 'BaguetteLib'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'baguettelib-1.21.1-NeoForge-2.0.3.jar'
 hash = 'e01709c880b0602b7a306201a25866e76c44f5c0'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7880467

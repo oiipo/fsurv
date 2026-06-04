@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Power Grid - 0.5.5.1 - NeoForge'
 hash = '06b0500d7101c5846e9e2c5bb4b53646a50ef133'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7999916

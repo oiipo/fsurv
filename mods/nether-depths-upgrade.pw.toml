@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'netherdepthsupgrade-3.1.8-1.21'
 hash = '6bc966cbfa01e52eac6c1b8efe6c4b63cfb65c42'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6430271
