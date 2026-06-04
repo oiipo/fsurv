@@ -141,11 +141,6 @@ hash = "b6b9e514a420b92d3e8259422fcca1c401879fcba62b8c10f06fac1adabef1f3"
 metafile = true
 
 [[files]]
-file = "mods/copper-age-backport.pw.toml"
-hash = "5282671ea1bf407f5942b575b01af83af0b69613c9cc1a32b7d3c5b9a97ef021"
-metafile = true
-
-[[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
 hash = "2f5164b7329bf1447cf2893f35e26acd0f6e5bb4404914f1a12b14c8ff07ea10"
 metafile = true
