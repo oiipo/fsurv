@@ -1,6 +1,6 @@
 filename = 'create_aeronautics_throwable_rope_connector-0.3.0.jar'
 name = 'Create Aeronautics: Throwable Rope Connector'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
